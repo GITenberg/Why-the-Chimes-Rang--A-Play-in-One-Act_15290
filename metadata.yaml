@@ -1,0 +1,34 @@
+_repo: Why-the-Chimes-Rang--A-Play-in-One-Act_15290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Alden, Raymond MacDonald
+    birthdate: 1873
+    deathdate: 1924
+    gutenberg_agent_id: '35753'
+    url: http://www.gutenberg.org/2009/agents/35753
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Macdonald_Alden
+  - agent_name: McFadden, Elizabeth A. (Elizabeth Apthorp)
+    alias: McFadden, Elizabeth Apthorp
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '5980'
+    url: http://www.gutenberg.org/2009/agents/5980
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PS'
+title: 'Why the Chimes Rang: A Play in One Act'
+url: http://www.gutenberg.org/ebooks/15290
